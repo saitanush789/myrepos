@@ -1,0 +1,6 @@
+1. Github account
+2. global username and password
+3. Create repo in github
+4. Create local repo and git init
+5. use git commit -u origin master
+6. use username and password token
