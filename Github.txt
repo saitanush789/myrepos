@@ -4,3 +4,4 @@
 4. Create local repo and git init
 5. use git commit -u origin master
 6. use username and password token
+7. Demo changes
